@@ -154,7 +154,7 @@
 <section id="kontakt">
   <h2>Kontakt & Demo</h2>
   <div class="card">
-    <p>📧 <strong>DEINE-EMAIL@BEISPIEL.DE</strong></p>
+    <p>📧 <strong>Karan.turan@outlook.com</strong></p>
     <a class="cta" href="mailto:Karan.turan@outlook.com">Demo anfragen</a>
   </div>
 </section>
